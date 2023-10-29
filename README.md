@@ -1,6 +1,6 @@
 # ConTriNet_RGBT-SOD
 
-## [**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**](https://cser-tang-hao.github.io/ctdnet.html) [![Arxiv Page](https://img.shields.io/badge/Arxiv-2301.xxxx-red?style=flat-square)](https://arxiv.org/abs/)
+## [**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**](https://cser-tang-hao.github.io/contrinet.html) [![Arxiv Page](https://img.shields.io/badge/Arxiv-2301.xxxx-red?style=flat-square)](https://arxiv.org/abs/)
 
 > **Authors:** 
 > [**Hao Tang**](https://scholar.google.com/citations?hl=zh-CNJ), 
