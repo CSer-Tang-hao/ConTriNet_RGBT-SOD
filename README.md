@@ -1,4 +1,4 @@
-# Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection
+# Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![Arxiv Page](https://img.shields.io/badge/Arxiv-2301.xxxx-red?style=flat-square)](https://arxiv.org/abs/)
 
 
 <div align="center">
@@ -10,16 +10,14 @@
 </div> 
 
 <div align="center">
-    <sup>1</sup>Nanjing University of Science and Technology, Nanjing, China;</br>
-    <sup>2</sup>Hong Kong University of Science and Technology, Hong Kong, China;</br>
+    <sup>1</sup>Nanjing University of Science and Technology, Nanjing, China</br>
+    <sup>2</sup>Hong Kong University of Science and Technology, Hong Kong, China</br>
     <sup>3</sup>Singapore Management University, Singapore&emsp;</br>
     <sup>&#x2709</sup> Corresponding Author
     
 </div>
 
  -----------------
-
-[![Arxiv Page](https://img.shields.io/badge/Arxiv-2301.xxxx-red?style=flat-square)](https://arxiv.org/abs/)
 
 > Codes, and Results Coming Soon!
 
