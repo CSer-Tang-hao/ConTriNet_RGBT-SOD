@@ -11,7 +11,7 @@
 
 <div align="center">
     <sup>1</sup>Nanjing University of Science and Technology, Nanjing, China;
-    <sup>2</sup>Institute of Computing Technology, Chinese Academy of Science;
+    <sup>2</sup>Hong Kong University of Science and Technology, Hong Kong, China;
     <sup>3</sup>Singapore Management University, Singapore&emsp;
     </br>
     <sup>&#x2709</sup> Corresponding Author
