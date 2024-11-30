@@ -3,11 +3,11 @@
 
 <div align="center">
     <a href='https://scholar.google.com/citations?hl=zh-CNJ' target='_blank'>Hao Tang<sup>1</sup></a>&emsp;
-    <a href='https://scholar.google.com/citations?user=L6J2V3sAAAAJ&hl=zh-CN' target='_blank'>Zechao Li<sup>&#x2709,1</sup></a>&emsp;
-    <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=zxVy7sIAAAAJ' target='_blank'>Dong Zhang<sup>2</sup></a>&emsp;
-    <a href='https://scholar.google.com/citations?user=rBWnK8wAAAAJ&hl=en' target='_blank'>Shengfeng He<sup>3</sup></a>&emsp;
-    <a href='https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN' target='_blank'>Jinhui Tang<sup>1</sup></a>
-</div>
+    <a href='https://scholar.google.com/citations?user=L6J2V3sAAAAJ&hl=zh-CN' target='_blank'>Zechao Li<sup>&#x2709,1</sup></a>&emsp; 
+    <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=zxVy7sIAAAAJ' target='_blank'>Dong Zhang<sup>2</sup></a>&emsp; 
+    <a href='https://scholar.google.com/citations?user=rBWnK8wAAAAJ&hl=en' target='_blank'>Shengfeng He<sup>3</sup></a>&emsp; 
+    <a href='https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN' target='_blank'>Jinhui Tang<sup>1</sup></a> 
+</div> 
 
 <div align="center">
     <sup>1</sup>Nanjing University of Science and Technology, Nanjing, China;
