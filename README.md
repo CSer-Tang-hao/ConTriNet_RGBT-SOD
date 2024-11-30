@@ -23,6 +23,9 @@
 ## Framework
 ![framework](figs/framework.png)
 
+## VT-IMAG
+![vt-imag](figs/VT-IMAG.png)
+
 ## Requirements
 
  - `Python 3.6`
@@ -40,7 +43,6 @@ Please cite our paper if you find the work useful, thanks!
        year={2024},
        doi={}
     }
-
 
 **[⬆ back to top](#1-preface)**
 
