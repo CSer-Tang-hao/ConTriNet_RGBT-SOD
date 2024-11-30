@@ -23,7 +23,7 @@
 ## Framework
 ![framework](figs/framework.png)
 
-## Dataset Overview
+## VT-IMAG Dataset
 ![vt-imag](figs/VT-IMAG.png)
 
 > The **primary purpose** of the constructed VT-IMAG is to drive the advancement of RGB-T SOD methods and facilitate their deployment in real-world scenarios. For a fair comparison, all models are solely trained on clear data and simple scenes (*i.e.*, training set of VT5000) and evaluated for **zero-shot robustness** on various real-world challenging cases in VT-IMAG. 
