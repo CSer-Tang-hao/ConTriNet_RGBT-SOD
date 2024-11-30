@@ -19,7 +19,7 @@
 
  -----------------
 
-> Codes, Datasets and Results Coming Soon!
+> Codes, Datasets, and Results Coming Soon!
 
 ![framework](figs/framework.png)
 
