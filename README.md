@@ -34,6 +34,10 @@
  - [`Pytorch`](http://pytorch.org/) >= 1.7.0 
  - `Torchvision` = 0.10
 
+## Evaluation
+
+> We use this [Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) for evaluating all RGB-T SOD results.
+
 ## Citation
 
 Please cite our paper if you find the work useful, thanks!
