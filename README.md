@@ -52,5 +52,5 @@ Please cite our paper if you find the work useful, thanks!
        doi={}
     }
 
-**[⬆ back to top](#1-preface)**
+
 
