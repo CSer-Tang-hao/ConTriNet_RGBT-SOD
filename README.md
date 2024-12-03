@@ -1,4 +1,4 @@
-# Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![Arxiv Page](https://img.shields.io/badge/Arxiv-2301.xxxx-red?style=flat-square)](https://arxiv.org/abs/)
+# Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![Arxiv Page](https://img.shields.io/badge/Arxiv-2412.01556-red?style=flat-square)](https://arxiv.org/abs/2412.01556)
 
 
 <div align="center">
