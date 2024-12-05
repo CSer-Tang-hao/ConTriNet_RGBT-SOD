@@ -23,6 +23,8 @@
 ## Framework
 ![framework](figs/framework.png)
 
+> An overview of the proposed *ConTriNet*, which adopts an efficient *``Divide-and-Conquer''* strategy, is presented. ConTriNet comprises three main flows: a modality-complementary flow that predicts a modality-complementary saliency map, and two modality-specific flows that predict RGB- and Thermal-specific saliency maps, respectively. The union encoder of two modality-specific flows shares parameters and the overall framework can be trained end-to-end.
+
 ## VT-IMAG Dataset 
 ![vt-imag](figs/VT-IMAG.png)
 
