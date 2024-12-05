@@ -23,12 +23,12 @@
 ## Framework
 ![framework](figs/framework.png)
 
-> An overview of the proposed *ConTriNet*, which adopts an efficient *``Divide-and-Conquer''* strategy, is presented. ConTriNet comprises three main flows: a modality-complementary flow that predicts a modality-complementary saliency map, and two modality-specific flows that predict RGB- and Thermal-specific saliency maps, respectively. The union encoder of two modality-specific flows shares parameters and the overall framework can be trained end-to-end.
+> An overview of the proposed *ConTriNet*, which adopts an efficient **``Divide-and-Conquer''** strategy, is presented. *ConTriNet* comprises three main flows: a modality-complementary flow that predicts a modality-complementary saliency map, and two modality-specific flows that predict RGB- and Thermal-specific saliency maps, respectively. The union encoder of two modality-specific flows shares parameters and the overall framework can be trained end-to-end.
 
 ## VT-IMAG Dataset 
 ![vt-imag](figs/VT-IMAG.png)
 
-> The **primary purpose** of the constructed VT-IMAG is to drive the advancement of RGB-T SOD methods and facilitate their deployment in real-world scenarios. For a fair comparison, all models are solely trained on clear data and simple scenes (*i.e.*, training set of VT5000) and evaluated for **Zero-shot Robustness** on various real-world challenging cases in VT-IMAG. [Download Dataset (Google Drive)](https://drive.google.com/file/d/1xzvqoYLrmJ-6x33DygCP-LhFNYfhQL-u/view?usp=sharing)
+> The *primary purpose* of the constructed VT-IMAG is to drive the advancement of RGB-T SOD methods and facilitate their deployment in real-world scenarios. For a fair comparison, all models are solely trained on clear data and simple scenes (*i.e.*, training set of VT5000) and evaluated for **Zero-shot Robustness** on various real-world challenging cases in VT-IMAG. [Download Dataset (Google Drive)](https://drive.google.com/file/d/1xzvqoYLrmJ-6x33DygCP-LhFNYfhQL-u/view?usp=sharing)
 
 > The prediction results of existing RGB-T SOD methods on VT-IMAG are now available for download, enabling researchers to easily compare their methods with existing SOTA methods and directly incorporate these results into their studies. [Download VT-IMAG Saliency_maps (Google Drive)](https://drive.google.com/drive/folders/18YWuQ4R-uYLElQEBN3WykQPasUtrxOuj?usp=sharing) 
 
