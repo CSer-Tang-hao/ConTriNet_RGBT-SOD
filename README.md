@@ -1,4 +1,4 @@
-# Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![Arxiv Page](https://img.shields.io/badge/Arxiv-2412.01556-red?style=flat-square)](https://arxiv.org/abs/2412.01556)
+# (TPAMI 2024) Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![Arxiv Page](https://img.shields.io/badge/Arxiv-2412.01556-red?style=flat-square)](https://arxiv.org/abs/2412.01556)
 
 
 <div align="center">
@@ -18,7 +18,7 @@
 
  -----------------
 
-> Codes, Datasets, and Results Coming Soon!
+> Codes and Results are Coming Soon!
 
 ## Framework
 ![framework](figs/framework.png)
@@ -28,13 +28,21 @@
 
 > The **primary purpose** of the constructed VT-IMAG is to drive the advancement of RGB-T SOD methods and facilitate their deployment in real-world scenarios. For a fair comparison, all models are solely trained on clear data and simple scenes (*i.e.*, training set of VT5000) and evaluated for **Zero-shot Robustness** on various real-world challenging cases in VT-IMAG. [Download Dataset (Google Drive)](https://drive.google.com/file/d/1xzvqoYLrmJ-6x33DygCP-LhFNYfhQL-u/view?usp=sharing)
 
-> The prediction results of existing RGB-T SOD methods on VT-IMAG are now available for download, enabling researchers to easily compare their methods with existing SOTA methods and directly incorporate these results into their studies. [Download Saliency_maps (Google Drive)](https://drive.google.com/drive/folders/18YWuQ4R-uYLElQEBN3WykQPasUtrxOuj?usp=sharing) 
+> The prediction results of existing RGB-T SOD methods on VT-IMAG are now available for download, enabling researchers to easily compare their methods with existing SOTA methods and directly incorporate these results into their studies. [VT-IMAG Download Saliency_maps (Google Drive)](https://drive.google.com/drive/folders/18YWuQ4R-uYLElQEBN3WykQPasUtrxOuj?usp=sharing) 
 
-## Requirements
+## Benchmark Datasets
 
- - `Python 3.6`
- - [`Pytorch`](http://pytorch.org/) >= 1.7.0 
- - `Torchvision` = 0.10
+- [VT5000](https://arxiv.org/pdf/2007.03262.pdf) [Download Datasets (Google Drive)]() 
+- [VT1000](https://arxiv.org/pdf/1905.06741.pdf) [Download Datasets (Google Drive)]() 
+- [VT821](https://arxiv.org/pdf/1701.02829.pdf)  [Download Datasets (Google Drive)](https://drive.google.com/drive/folders/1gjTRVwvTNL0MJaJwS6vkpoi5rGyxIh41?usp=sharing)
+
+## Saliency Maps
+
+> The prediction results of existing RGB-T SOD methods and our ConTriNet on benchmark datasets are now available for download, enabling researchers to easily compare their methods with existing SOTA methods and directly incorporate these results into their studies.
+
+- [Download VT5000 Saliency_maps (Google Drive)]() 
+- [Download VT1000 Saliency_maps (Google Drive)]() 
+- [Download VT821 Saliency_maps (Google Drive)]()  
 
 ## Evaluation
 
