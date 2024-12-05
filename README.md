@@ -18,7 +18,7 @@
 
  -----------------
 
-> Codes and Results are Coming Soon!
+> Codes are Coming Soon!
 
 ## Framework
 ![framework](figs/framework.png)
