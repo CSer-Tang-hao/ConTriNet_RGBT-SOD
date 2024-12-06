@@ -1,4 +1,4 @@
-# (TPAMI 2024) Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![Arxiv Page](https://img.shields.io/badge/Arxiv-2412.01556-red?style=flat-square)](https://arxiv.org/abs/2412.01556)
+# (TPAMI 2024) Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![IEEE Page](https://img.shields.io/badge/IEEE-TPAMI.2024.3511621-green?style=flat-square)](https://ieeexplore.ieee.org/document/10778650) [![Arxiv Page](https://img.shields.io/badge/Arxiv-2412.01556-red?style=flat-square)](https://arxiv.org/abs/2412.01556)
 
 
 <div align="center">
@@ -54,13 +54,14 @@
 
 Please cite our paper if you find the work useful, thanks!
 
-    @ARTICLE{10113165,
-       author={Tang, Hao and Li, Zechao and Zhang, Dong and He, Shengfeng and Tang, Jinhui},
-       journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-       title={Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection}, 
-       year={2024},
-       doi={}
-    }
+    @ARTICLE{10778650,
+      author={Tang, Hao and Li, Zechao and Zhang, Dong and He, Shengfeng and Tang, Jinhui},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+      title={Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection}, 
+      year={2024},
+      pages={1-17},
+      doi={10.1109/TPAMI.2024.3511621}}
+
 
 
 
