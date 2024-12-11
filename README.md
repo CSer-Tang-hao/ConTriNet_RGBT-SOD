@@ -54,7 +54,7 @@
 
 Please cite our paper if you find the work useful, thanks!
 
-    @ARTICLE{10778650,
+    @article{tang2024divide,
       author={Tang, Hao and Li, Zechao and Zhang, Dong and He, Shengfeng and Tang, Jinhui},
       journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
       title={Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection}, 
