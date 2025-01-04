@@ -51,8 +51,8 @@
 
 ```bash
 
-python train.py --rgb_label_root [path of training rgb images] --thermal_label_root [path of training thermal images] --gt_label_root [path of training gt images] --gpu_id 
-python test.py --test_path [path of test images] --model_path [path of the model checkpoint] --gpu_id 
+python train.py --rgb_label_root [path_of_training_rgb_images] --thermal_label_root [path_of_training_thermal_images] --gt_label_root [path_of_training_gt_images] --gpu_id 
+python test.py --test_path [path_of_test_images] --model_path [path_of_model_checkpoint] --gpu_id 
 
 ```
 > The original model weights are unavailable due to the long paper review process. We reorganize and release the code along with newly reproduced [model weights (Google Drive)](https://drive.google.com/file/d/1YX-sxyZfhMOx6zCCGk8L9SLDHSlEV74X/view?usp=sharing) for reference, with results closely matching the paper, sometimes outperforming it.
