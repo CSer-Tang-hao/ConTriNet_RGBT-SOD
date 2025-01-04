@@ -47,7 +47,7 @@
 - [Download VT821 Saliency_maps (Google Drive)](https://drive.google.com/drive/folders/1abbs3rcefsTSHFfBmPg8aFHxgCu78oIM?usp=sharing)  
 
 ## How to run
-+ After you download training dataset, just run `train.py` to train our model and `test.py` to generate the final prediction map.
++ After you download datasets, just run `train.py` to train our model and `test.py` to generate the final prediction map.
 
 ```bash
 
@@ -55,7 +55,7 @@ python train.py --rgb_label_root [path of training rgb images] --thermal_label_r
 python test.py --test_path [path of test images] --model_path [path of the model checkpoint] --gpu_id 
 
 ```
-> The original model weights are unavailable due to the long review process. We reorganize and release the code along with newly reproduced [model weight (Google Drive)](https://drive.google.com/file/d/1YX-sxyZfhMOx6zCCGk8L9SLDHSlEV74X/view?usp=sharing) for reference, with results closely matching the paper, sometimes outperforming it.
+> The original model weights are unavailable due to the long review process. We reorganize and release the code along with newly reproduced [model weights (Google Drive)](https://drive.google.com/file/d/1YX-sxyZfhMOx6zCCGk8L9SLDHSlEV74X/view?usp=sharing) for reference, with results closely matching the paper, sometimes outperforming it.
 
 ## Evaluation
 
