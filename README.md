@@ -46,6 +46,17 @@
 - [Download VT1000 Saliency_maps (Google Drive)](https://drive.google.com/drive/folders/1ucKJxD6lzdJ1pKE3VR81ae9RHbdiXQBE?usp=sharing) 
 - [Download VT821 Saliency_maps (Google Drive)](https://drive.google.com/drive/folders/1abbs3rcefsTSHFfBmPg8aFHxgCu78oIM?usp=sharing)  
 
+## How to run
++ After you download training dataset, just run `train.py` to train our model and `test.py` to generate the final prediction map.
+
+```bash
+
+python train.py --rgb_label_root [path of training rgb images] --thermal_label_root [path of training thermal images] --gt_label_root [path of training gt images] --gpu_id 
+python test.py --test_path [path of test images] --model_path [path of the model checkpoint] --gpu_id 
+
+```
+> The original model weights are unavailable due to the long review process. We reorganize and release the code along with newly reproduced [model weight (Google Drive)](https://drive.google.com/file/d/1YX-sxyZfhMOx6zCCGk8L9SLDHSlEV74X/view?usp=sharing) for reference, with results closely matching the paper, sometimes outperforming it.
+
 ## Evaluation
 
 > We use this [Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) for evaluating all RGB-T SOD results.
