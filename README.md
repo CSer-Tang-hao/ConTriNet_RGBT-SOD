@@ -1,4 +1,4 @@
-# (TPAMI 2025) Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![IEEE Page](https://img.shields.io/badge/IEEE-TPAMI.2024.3511621-green?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/10778650) [![Arxiv Page](https://img.shields.io/badge/Arxiv-2412.01556-red?style=flat-square)](https://arxiv.org/abs/2412.01556)
+# (TPAMI 2025) Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection [![WOS Page](https://img.shields.io/badge/WOS-Highly_Cited_Paper-purple?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/10778650) [![IEEE Page](https://img.shields.io/badge/IEEE-TPAMI.2024.3511621-green?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/10778650) [![Arxiv Page](https://img.shields.io/badge/Arxiv-2412.01556-red?style=flat-square)](https://arxiv.org/abs/2412.01556)
 
 
 <div align="center">
